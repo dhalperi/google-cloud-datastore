@@ -60,7 +60,7 @@ pip install googledatastore
 
 - Maven/Java ([javadoc][20]):
 
-```
+```xml
 <dependency>
   <groupId>com.google.apis</groupId>
   <artifactId>google-api-services-datastore-protobuf</artifactId>
